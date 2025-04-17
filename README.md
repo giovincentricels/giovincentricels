@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name is Giovincent Ricel's Tanoto
+
+
+## 😄 All about me
+🇮🇩 Database Enthusiast | Python & SQL Explorer | Badminton & Gaming Enjoyer
+Hey! I'm a huge fan of exploring Python, MySQL, and occasionally drowning in AI/R/Kafka—currently based in Alam Sutera. When I'm not battling NULL values, you'll find me smashing shuttlecocks 🏸, throwing ranked games in Mobile Legends 🎮 (my WR is questionable), or chilling with WoW Classic. "SELECT sleep FROM life" still returns no rows, but hey—at least my queries (mostly) work! 😄
 
 <!--
 **giovincentricels/giovincentricels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
