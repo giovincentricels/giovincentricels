@@ -1,10 +1,10 @@
 ## Hi there👋, my name is Giovincent Ricel's Tanoto
 ### 🌐 Let's Connect
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@giovincentricelstanoto7893)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://open.spotify.com/user/mtgcr3uv7945t5bof25cuw0ks?si=41dc80830ac74ec6)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovincentricels?igsh=MTh0cWhhbm1tdm15OQ%3D%3D&utm_source=qr)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mtgcr3uv7945t5bof25cuw0ks?si=41dc80830ac74ec6)
 
-## 😄 All about me
+## 📸 All about me
 ✨ Database Enthusiast | 💻 Python & SQL Explorer | ❤️ Badminton & Gaming Enjoyer<br><br>
 Hey! I'm a huge fan of exploring Python, MySQL, and occasionally drowning in AI/R/Kafka—currently based in Alam Sutera. When I'm not battling NULL values, you'll find me smashing shuttlecocks 🏸, throwing ranked games in Mobile Legends 🎮 (my WR is questionable), or chilling with WoW Classic. "SELECT sleep FROM life" still returns no rows, but hey—at least my queries (mostly) work! 😄
 
