@@ -1,5 +1,8 @@
-## Hi there 👋, my name is Giovincent Ricel's Tanoto
-
+## Hi there👋, my name is Giovincent Ricel's Tanoto
+### 🌐 Let's Connect
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@giovincentricelstanoto7893)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://open.spotify.com/user/mtgcr3uv7945t5bof25cuw0ks?si=41dc80830ac74ec6)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mtgcr3uv7945t5bof25cuw0ks?si=41dc80830ac74ec6)
 
 ## 😄 All about me
 ✨ Database Enthusiast | 💻 Python & SQL Explorer | ❤️ Badminton & Gaming Enjoyer<br><br>
