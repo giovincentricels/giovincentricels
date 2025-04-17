@@ -2,7 +2,7 @@
 
 
 ## 😄 All about me
-🇮🇩 Database Enthusiast | Python & SQL Explorer | Badminton & Gaming Enjoyer<br><br>
+✨Database Enthusiast | ⚡Python & SQL Explorer | Badminton & Gaming Enjoyer<br><br>
 Hey! I'm a huge fan of exploring Python, MySQL, and occasionally drowning in AI/R/Kafka—currently based in Alam Sutera. When I'm not battling NULL values, you'll find me smashing shuttlecocks 🏸, throwing ranked games in Mobile Legends 🎮 (my WR is questionable), or chilling with WoW Classic. "SELECT sleep FROM life" still returns no rows, but hey—at least my queries (mostly) work! 😄
 
 <!--
