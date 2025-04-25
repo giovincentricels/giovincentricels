@@ -3,6 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@giovincentricelstanoto7893?si=-OlcLYO8ws8O7R98)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovincentricels?igsh=MTh0cWhhbm1tdm15OQ%3D%3D&utm_source=qr)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mtgcr3uv7945t5bof25cuw0ks?si=41dc80830ac74ec6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovincentricels)
 
 ## 📸 All about me
 ✨ Database Enthusiast | 💻 Python & SQL Explorer | ❤️ Badminton & Gaming Enjoyer<br><br>
