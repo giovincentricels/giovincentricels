@@ -9,17 +9,20 @@
 ✨ Database Enthusiast | 💻 Python & SQL Explorer | ❤️ Badminton & Gaming Enjoyer<br><br>
 Hey! I'm a huge fan of exploring Python, MySQL, and occasionally drowning in AI/R/Kafka—currently based in Alam Sutera. When I'm not battling NULL values, you'll find me smashing shuttlecocks 🏸, throwing ranked games in Mobile Legends 🎮 (my WR is questionable), or chilling with WoW Classic. "SELECT sleep FROM life" still returns no rows, but hey—at least my queries (mostly) work! 😄
 
-<!--
-**giovincentricels/giovincentricels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=giovincentricels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=giovincentricels&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovincentricels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+### ✍️ Random Dev Quote
+!["Yesterday is history, Tommorow is mystery, But Today is a gift. And thats why it's called present" - Master Oogway](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=giovincentricels&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=giovincentricels&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
