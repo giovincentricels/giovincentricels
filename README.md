@@ -29,3 +29,15 @@ Hey! I'm a huge fan of exploring Python, MySQL, and occasionally drowning in AI/
   <br>
 </div>
 <!--  -->
+
+### 🎖️ Badges
+<p align="left">
+  <img src="https://cdn.qwiklabs.com/2H1GveAGeXpUWx%2BR2w3NFV1alNlU%2BnydHrQWGMwEWfs%3D"  alt="Introduction to Generative AI" width="120"/>
+  <img src="https://cdn.qwiklabs.com/rkL0SVAyPxbi8qK2XYqldHt6RLpSgshWSGzOTUPMgek%3D"  alt="Level 1: Core Infrastructure and Security" width="120"/>
+  <img src="https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D"  alt="Skills Boost Arcade Trivia August 2025 Week 1" width="120"/>
+  <img src="https://cdn.qwiklabs.com/jiOBZzRbqmZOz7RELO4i%2FrDGHqAbYmmOIejs3AGxKcY%3D"  alt="Skills Boost Arcade Trivia August 2025 Week 2" width="120"/>
+  
+</p>
+
+
+
